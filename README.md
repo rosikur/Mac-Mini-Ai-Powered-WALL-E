@@ -20,8 +20,13 @@ This will be a self moving Robot that looks like WALL E because why not it will 
 - Microphone (voice commands) required but its cheap dw
 - Motor rotary encoder(So that we know how far its moved)
 - Touch Sensor( VERY IMPORTANT TO PET IT OR ELSE IT WILL DO BAD THINGS)
+
+  
 Vape Batteries
+
 WARNING:BIOHAZARDD;LITHIUM GO BOOM
+
+
 So a video of @Chris_doel explains it good i like https://youtu.be/dy-wFixuRVU?is=eOJllBUtryOXOiOb as its a similar Concept
 You will need the same charging thing as him as when the batteries discharge It WILL GO BOOM
 So
