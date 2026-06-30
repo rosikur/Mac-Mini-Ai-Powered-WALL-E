@@ -49,6 +49,9 @@ To have a cool Project fot this Summer and also Youtube Views and fame (jk im do
 - Motor rotary encoder(So that we know how far its moved)
 - Touch Sensor( VERY IMPORTANT TO PET IT OR ELSE IT WILL DO BAD THINGS)
 
+## I will wire it like this
+![wiring diagramm](/Pictures/connectionoversight.png)
+
   
 Vape Batteries
 
