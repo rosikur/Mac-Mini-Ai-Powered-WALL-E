@@ -24,6 +24,10 @@ Just kidding there´s something even more Important
 
 - YOU CAN PETTTT WALL - E
 
+# But why are you doing this?
+
+To have a cool Project fot this Summer and also Youtube Views and fame (jk im doing it for the love of the game)
+
 ## Material List :
 - Machanical Components
 - Micro Controller ( We will use an ESP 32 with a wroom module) (duh)
@@ -63,4 +67,17 @@ So
 - Charging Interface
 We'll be using 3.7 Volt 3 A batteries à 5 Cells In series of those packs we'll do 5 in parralel to get 21 Volts à 15 Amp
 PLEASE IT IS VERY DANGEROUS ONLY DO IT AFTER YOU DID MANY HOURS OF RESEARCH
+
+## Installation
+Tbh im not that far
+###  It was build with :
+c++ I think ,im not that far forgive me
+
+## Author
+The one and only Rosi someday my liks will be here
+Instagram:rossifotosPB
+Updates will be posted on Youtube and on Stardance
+Love from Rosi
+
+
 
