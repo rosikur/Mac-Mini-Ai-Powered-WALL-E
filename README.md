@@ -2,6 +2,7 @@
 ## Intro
 Do you guys know Wall-E ?
 Time to realize him.
+![scetch](/Pictures/IMG_1446.jpeg)
 ## What are the Main Features?
 The main Feature will be the brains of Wall-E 
 It will conist of 
