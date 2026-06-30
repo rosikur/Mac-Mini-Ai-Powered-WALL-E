@@ -1,7 +1,29 @@
 # Mac-Mini-Ai-Powered-WALL-E
-This will be a self moving Robot that looks like WALL E because why not it will hav lots of sensors like a Camera ,Mic , Speaker Tilting Infared(mybe) etc pp inside the chassis there will be an Array of recycled vape Batteries(WARNING Biohazard and Lithium Explosion and no i dont vape) and HP G5 Dock for outside ports in the front there will be a display showing either whats happening or sensor stats emotions will be made via moving the camera on its head there´ll be a Camera(probably a Lumix GH5 and a lens zoom mover ) there´ll be a Mic and Speaker and distance sensors like an Ultra Sonic sensor or LiDAR some more sensors are a Time-of-flight sensor a tilting sensor a capacitive touch sensor to pet it (SUPER IMPORTANTT) like I mentioned in the title the whole thing will run of a Mac Mini M4 thats trained a lot(this project is going to take ages)
-![the robot](/Pictures/IMG_1446.jpeg)
-## -Material List :
+## Intro
+Do you guys know Wall-E ?
+Time to realize him.
+## What are the Main Features?
+The main Feature will be the brains of Wall-E 
+It will conist of 
+- A Mac mini for a local AI and Neural Networks
+- An ESP-32 for the sensors which will be sending data to the Mac for Calculations
+- Sensors (Seen Below)
+
+
+Rest of the features will be:
+-  Self Moving
+- AI
+- Speaker Microphone Camera  etc
+- Outside Display
+- Outside IO
+ and most IMPORTANT
+- Its powered by Recycled Vape Batteries (BIOHAZARD)
+
+Just kidding there´s something even more Important 
+
+- YOU CAN PETTTT WALL - E
+
+## Material List :
 - Machanical Components
 - Micro Controller ( We will use an ESP 32 with a wroom module) (duh)
 - Mac Mini (For the Ai and Camrra part) (duh)-
