@@ -50,7 +50,7 @@ To have a cool Project fot this Summer and also Youtube Views and fame (jk im do
 - Touch Sensor( VERY IMPORTANT TO PET IT OR ELSE IT WILL DO BAD THINGS)
 
 ## I will wire it like this
-![wiring diagramm](/Pictures/connectionoversight.png)
+![wiring diagramm](/Pictures/image.png)
 
   
 Vape Batteries
